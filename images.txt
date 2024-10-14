@@ -11,7 +11,7 @@
 #docker.io/redis:latest
 #docker.io/sonatype/nexus3:3.37.3
 #nacos/nacos-server:v2.2.0
-libreoffice/online:master
-docker.io/mongo:latest
-docker.io/jenkins:latest
+#libreoffice/online:master
+#docker.io/mongo:latest
+jenkins/jenkins:latest
 
