@@ -8,6 +8,10 @@
 #rancher/server:latest
 #rancher/rancher-agent:v1.2.11
 #nginx:latest
-docker.io/redis:latest
-docker.io/sonatype/nexus3:3.37.3
-nacos/nacos-server:v2.2.0
+#docker.io/redis:latest
+#docker.io/sonatype/nexus3:3.37.3
+#nacos/nacos-server:v2.2.0
+libreoffice/online:master
+docker.io/mongo:latest
+docker.io/jenkins:latest
+
