@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:latest
 rancher/server:latest
+rancher/rancher-agent:v1.2.11
+nginx:latest
