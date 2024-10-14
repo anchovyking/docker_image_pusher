@@ -7,4 +7,7 @@
 #python:latest
 #rancher/server:latest
 #rancher/rancher-agent:v1.2.11
-nginx:latest
+#nginx:latest
+docker.io/redis:latest
+docker.io/sonatype/nexus3:3.37.3
+nacos/nacos-server:v2.2.0
