@@ -13,5 +13,6 @@
 #nacos/nacos-server:v2.2.0
 #libreoffice/online:master
 #docker.io/mongo:latest
-jenkins/jenkins:latest
+#jenkins/jenkins:latest
 
+rancher/agent:v1.2.11
